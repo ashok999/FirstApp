@@ -22,7 +22,7 @@ public class FirstActivity extends AppCompatActivity {
     }
     public void showGreetings(View view)
     {
-     String message = "welcome to first app";
+     String message = "Welcome to first app";
         textView.setText(message);
     }
 
